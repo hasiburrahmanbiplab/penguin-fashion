@@ -12,7 +12,10 @@
     font-size: 70px;
 }
 .section-h2{
-    font-size:40px ;
+    font-size:45px ;
+}
+.section-h3{
+    font-size: 25px;
 }
 .primanry-color{
     color: rgb(54, 57, 88);
@@ -46,7 +49,7 @@
     font-weight: 500;
     font-family: "Roboto", sans-serif;
     color: rgb(255, 255, 255);
-    padding: 18px 22px;
+    padding: 16px 22px;
     background:linear-gradient(to right, rgb(164, 188, 70),
     rgb(133, 160, 25));
     text-transform: uppercase;
@@ -99,3 +102,9 @@ a{
     object-fit: cover;
 }
 /* banner part end */
+/* jackets part start */
+.jacket-image img{
+    width: 85%;
+    height: 85%;
+}
+/* jackets part end */
