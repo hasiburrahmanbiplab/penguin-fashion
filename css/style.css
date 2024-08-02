@@ -98,11 +98,17 @@ a{
 /* banner part start */
 .banner-image img{
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
 }
 /* banner part end */
 /* jackets part start */
 .jacket-image img{
     width: 85%;
+    object-fit: contain;
 }
 /* jackets part end */
+/* shoping part start */
+.shoping-text li .img{
+    max-width: 85px;
+}
+/* shoping part end */
