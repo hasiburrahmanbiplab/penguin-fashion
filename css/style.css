@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Manrope:wght@200..800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
+/* common css end */
 .babas{
    font-family: "Bebas Neue", sans-serif;
 }
@@ -26,6 +27,19 @@
     font-weight: 500;
     font-family: "Roboto", sans-serif;
     color: rgb(60, 60, 60);
+}
+.container{
+    border: 1px solid red;
+}
+.gap{
+    margin: 100px;
+}
+.nav-icon{
+    padding: 5px;
+    border: none;
+}
+.nav-icon:focus {
+	box-shadow: none;
 }
 .common-btn{
     font-size: 16px;
@@ -64,3 +78,12 @@ a{
     text-decoration: none;
     display: inline-block;
 }
+/* common css end */
+/* navbar part start */
+.navbar .navbar-logo{
+    max-width: 200px;
+}
+.navbar .navbar-logo img{
+    width: 100%;
+}
+/* navbar part end */
