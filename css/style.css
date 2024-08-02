@@ -31,9 +31,6 @@
     font-family: "Roboto", sans-serif;
     color: rgb(60, 60, 60);
 }
-.container{
-    border: 1px solid red;
-}
 .gap{
     margin: 70px 0;
 }
