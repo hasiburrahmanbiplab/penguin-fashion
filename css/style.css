@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Manrope:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.babas{
+   font-family: "Bebas Neue", sans-serif;
+}
+.roboto{
+    font-family: "Roboto", sans-serif;
+}
+.section-h1{
+    font-size: 70px;
+}
+.section-h2{
+    font-size:40px ;
+}
+.primanry-color{
+    color: rgb(54, 57, 88);
+}
+.secondary-color{
+    color: rgb(62, 62, 62);
+}
+.additional-color{
+    color: rgb(250, 190, 76);
+}
+.nav-link{
+    font-weight: 500;
+    font-family: "Roboto", sans-serif;
+    color: rgb(60, 60, 60);
+}
+.common-btn{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Roboto", sans-serif;
+    color: rgb(255, 255, 255);
+    padding: 18px 33px;
+    background:linear-gradient(to right, rgb(164, 188, 70),
+    rgb(133, 160, 25));
+    text-transform: uppercase;
+}
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    padding: 0;
+    margin: 0;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+li{
+    display: inline-block;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
