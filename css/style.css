@@ -32,7 +32,7 @@
     border: 1px solid red;
 }
 .gap{
-    margin: 100px;
+    margin: 70px 0;
 }
 .nav-icon{
     padding: 5px;
@@ -46,7 +46,7 @@
     font-weight: 500;
     font-family: "Roboto", sans-serif;
     color: rgb(255, 255, 255);
-    padding: 18px 33px;
+    padding: 18px 22px;
     background:linear-gradient(to right, rgb(164, 188, 70),
     rgb(133, 160, 25));
     text-transform: uppercase;
